@@ -1,3 +1,3 @@
 # Listado de colaboradores
 
-* Carlos Elian
+* Carlos Elian Lalangui Flores
